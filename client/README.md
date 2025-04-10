@@ -1,5 +1,5 @@
 # Jobster
-
+This project is a part of John Smilga's React course
 Project in Action - [Jobster](https://redux-toolkit-jobster.netlify.app/)
 
 #### React Course
