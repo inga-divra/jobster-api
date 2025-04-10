@@ -15,3 +15,5 @@ Jobster API is a backend application built with Node.js, Express, and MongoDB. I
 - MongoDB & Mongoose
 - JWT Authentication
 - Aggregation Pipelines
+
+This project is a part of John Smilga's Node.js course, focusing on building a robust backend API with Node.js and MongoDB.
